@@ -1,0 +1,12 @@
+{
+  "name": "Nexus Prime",
+  "symbol": "NEX",
+  "description": "Iss token se duniya badal jayegi!",
+  "image": "https://res.cloudinary.com/adilshaikh/image/upload/icons8-nft-node-64_s9vyxt.png",
+  "attributes": [
+    {
+      "trait_type": "Vibe",
+      "value": "Cool"
+    }
+  ]
+}
