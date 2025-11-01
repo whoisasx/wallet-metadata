@@ -1,1 +1,12 @@
-
+{
+  "name": "Warp Drive",
+  "symbol": "WRAP",
+  "description": "Iss token se duniya badal jayegi!",
+  "image": "https://res.cloudinary.com/adilshaikh/image/upload/v1762026110/icons8-cheap-40_ufn7gv.png",
+  "attributes": [
+    {
+      "trait_type": "Vibe",
+      "value": "Cool"
+    }
+  ]
+}
