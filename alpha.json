@@ -1,0 +1,12 @@
+{
+  "name": "Alpha Coin",
+  "symbol": "ALC",
+  "description": "Iss token se duniya badal jayegi!",
+  "image": "https://res.cloudinary.com/adilshaikh/image/upload/v1762026146/icons8-token-96_wfo6zy.png",
+  "attributes": [
+    {
+      "trait_type": "Vibe",
+      "value": "Cool"
+    }
+  ]
+}
