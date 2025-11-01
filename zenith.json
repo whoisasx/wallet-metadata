@@ -1,1 +1,12 @@
-
+{
+  "name": "Zenith Zaps",
+  "symbol": "ZAPS",
+  "description": "Iss token se duniya badal jayegi!",
+  "image": "https://res.cloudinary.com/adilshaikh/image/upload/v1762026137/icons8-token-100_di5irj.png",
+  "attributes": [
+    {
+      "trait_type": "Vibe",
+      "value": "Cool"
+    }
+  ]
+}
