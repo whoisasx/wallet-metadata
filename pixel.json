@@ -1,0 +1,12 @@
+{
+  "name": "PIXEL PULSE",
+  "symbol": "PULSE",
+  "description": "Iss token se duniya badal jayegi!",
+  "image": "https://res.cloudinary.com/adilshaikh/image/upload/v1762026128/icons8-neo-cryptocurrency-100_ml2rhp.png",
+  "attributes": [
+    {
+      "trait_type": "Vibe",
+      "value": "Cool"
+    }
+  ]
+}
